@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Tomiwa Adegbite
 
-<!--
-**boldmove/boldmove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic **IT Business Analyst**, **AI Researcher**, and **Digital Transformation Strategist** with over 5 years of experience leveraging technology to drive innovation, optimize processes, and deliver impactful solutions across diverse industries, including business, finance, transport, construction, and energy.
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- Design and implement strategic, scalable solutions for **digital transformation**  
+- Lead cross-functional teams in managing major processes and projects  
+- Solve complex problems at the intersection of **AI, data, and technology**  
+- Research and apply emerging technologies to enhance **business processes**, **energy systems**, and **urban resilience**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Key Interests
+- **AI**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
+- Leveraging **data analytics** to enable smarter decision-making  
+- Developing **AI solutions for the built environment**, tailored to African industries  
+- Driving **training and change management** for technology adoption and tools  
+- Exploring the potential of **AI agents** and their possibilities  
+
+## 🌍 Collaborations
+- Contributed to global projects, including with the **World Bank**  
+- Published academic papers on topics like **AI in STEM** and **energy-efficient systems**  
+- Partnered with cross-functional teams to deliver **government contracts** and **corporate solutions**
+
+## 🚀 Let’s Connect
+I’m passionate about exploring **AI-driven innovations**, contributing to **open-source projects**, and collaborating on **cutting-edge solutions**. Explore my repositories, and feel free to connect or reach out!
