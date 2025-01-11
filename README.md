@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Tomiwa Adegbite
 
-I’m an enthusiastic **IT Business Analyst**, **AI Researcher**, and **Digital Transformation Strategist** with over 5 years of experience leveraging technology to drive innovation, optimize processes, and deliver impactful solutions across diverse industries, including business, finance, transport, construction, and energy.
+I’m an enthusiastic **IT Business & Data Analyst**, **AI Researcher**, and **Digital Transformation Strategist** with over 5 years of experience leveraging technology to drive innovation, optimize processes, and deliver impactful solutions across diverse industries, including business, finance, transport, construction, and energy.
 
 ## 💡 What I Do
 - Design and implement strategic, scalable solutions for **digital transformation**  
@@ -9,7 +9,7 @@ I’m an enthusiastic **IT Business Analyst**, **AI Researcher**, and **Digital 
 - Research and apply emerging technologies to enhance **business processes**, **energy systems**, and **urban resilience**
 
 ## 📊 Key Interests
-- **AI**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
+- **AI Agents**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
 - Leveraging **data analytics** to enable smarter decision-making  
 - Developing **AI solutions for the built environment**, tailored to African industries  
 - Driving **training and change management** for technology adoption and tools  
