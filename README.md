@@ -6,7 +6,7 @@ I’m an enthusiastic **IT Business & Data Analyst**, **AI Researcher**, and **D
 - Design and implement strategic, scalable solutions for **digital transformation**  
 - Lead cross-functional teams in managing major processes and projects  
 - Solve complex problems at the intersection of **AI, data, and technology**  
-- Research and apply emerging technologies to enhance **business processes**, **energy systems**, and **urban resilience**
+- Research and apply emerging technologies to enhance **business processes**, **energy systems**, and **urban housing and mobility**
 
 ## 📊 Key Interests
 - **AI Agents**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
