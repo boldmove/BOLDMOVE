@@ -9,7 +9,7 @@ I’m an enthusiastic **IT Business & Data Analyst**, **AI Researcher**, and **D
 - Research and apply emerging technologies to enhance **business processes**, **energy systems**, and **urban housing and mobility**
 
 ## 📊 Key Interests
-- **AI Agents**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
+- **AI**, **LLMs**, and **Computer Vision** for automation and operational efficiency  
 - Leveraging **data analytics** to enable smarter decision-making  
 - Developing **AI solutions for the built environment**, tailored to African industries  
 - Driving **training and change management** for technology adoption and tools  
