@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Tomiwa Adegbite
+# 👋 Hi there! I'm Tomiwa
 
-I’m an enthusiastic **IT Business & Data Analyst**, **AI Researcher**, and **Digital Transformation Strategist** with over 5 years of experience leveraging technology to drive innovation, optimize processes, and deliver impactful solutions across diverse industries, including business, finance, transport, construction, and energy.
+I’m an **IT Business & Data Analyst**, **AI Researcher**, and **Digital Transformation Strategist** with over 5 years of experience leveraging technology to drive innovation, optimize processes, and deliver impactful solutions across diverse industries, including business, finance, transport, construction, and energy.
 
 ## 💡 What I Do
 - Design and implement strategic, scalable solutions for **digital transformation**  
